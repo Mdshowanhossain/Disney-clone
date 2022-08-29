@@ -1,1 +1,3 @@
-## Getting started Disney-Clone
+## Getting Started A Project
+
+ Disney Clone Home Page Design.
